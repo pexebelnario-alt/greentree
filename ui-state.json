@@ -1,0 +1,811 @@
+{
+  "devices": {
+    "mobile": {
+      "scrollSettings": {
+        "type": "smooth",
+        "speed": 100,
+        "easing": "default",
+        "duration": 1200,
+        "isInfinite": false
+      },
+      "canvases": {
+        "it78": { "sceneId": "5c169bfd-36b8-403e-a6df-8e7089d8790a" }
+      }
+    },
+    "tablet": {
+      "scrollSettings": {
+        "type": "native",
+        "speed": 100,
+        "easing": "default",
+        "duration": 1200,
+        "isInfinite": false
+      },
+      "canvases": { "it78": {} }
+    },
+    "desktop": {
+      "scrollSettings": {
+        "type": "smooth",
+        "speed": 100,
+        "easing": "default",
+        "duration": 1200,
+        "isInfinite": false
+      },
+      "canvases": {
+        "it78": {
+          "sceneId": "566abd70-85e2-4587-a7ff-cc4481edd303",
+          "cameraId": "ea94b165-c53b-4704-87a9-1633ae09cd51"
+        }
+      }
+    }
+  },
+  "sections": {
+    "i84ba": { "name": "hero-trigger", "offsetY": 0, "hash": "hero-trigger" },
+    "id5kb-2": { "name": "end", "offsetY": 0, "hash": "end" },
+    "id5kb-2-2": { "name": "end", "offsetY": 0, "hash": "end-2" },
+    "id5kb-2-2-2": { "name": "end", "offsetY": 0, "hash": "end-3" },
+    "i84ba-2": { "name": "2", "offsetY": 0, "hash": "2" },
+    "i84ba-3": { "name": "3", "offsetY": 0, "hash": "3" },
+    "i84ba-3-2": { "name": "why-us", "offsetY": 0, "hash": "why-us" },
+    "i84ba-3-2-2": { "name": "partners", "offsetY": 0, "hash": "partners" },
+    "i84ba-3-2-3": { "name": "CTA", "offsetY": 0, "hash": "cta" },
+    "id5kb-2-2-2-2": { "name": "end", "offsetY": 0, "hash": "end-4" },
+    "id5kb-2-2-3": { "name": "end", "offsetY": 0, "hash": "end-5" },
+    "id5kb-2-2-4": { "name": "end", "offsetY": 0, "hash": "end-6" },
+    "i84ba-3-2-3-2": { "name": "agent1", "offsetY": 0, "hash": "agent1" },
+    "id5kb-2-2-2-3": { "name": "end", "offsetY": 0, "hash": "end-7" },
+    "id5kb-2-2-2-4": { "name": "end", "offsetY": 0, "hash": "end-8" },
+    "id5kb-2-2-2-3-2-5": { "name": "end", "offsetY": 0, "hash": "end-9" },
+    "id5kb-2-2-2-3-2-6": { "name": "end", "offsetY": 0, "hash": "end-10" },
+    "id5kb-2-2-2-3-2-7": { "name": "end", "offsetY": 0, "hash": "end-11" },
+    "id5kb-2-2-2-3-2-8": { "name": "end", "offsetY": 0, "hash": "end-12" },
+    "i84ba-3-2-3-2-2": { "name": "agent2", "offsetY": 0, "hash": "agent2" },
+    "i84ba-3-2-3-2-2-2": { "name": "agent3", "offsetY": 0, "hash": "agent3" },
+    "id5kb-2-2-5": { "name": "end", "offsetY": 0, "hash": "end-13" },
+    "id5kb-2-2-2-4-2": { "name": "end", "offsetY": 0, "hash": "end-14" },
+    "id5kb-2-2-2-3-2-8-2": { "name": "end", "offsetY": 0, "hash": "end-15" },
+    "i5x2ji-3-3": { "name": "ag1", "offsetY": 0, "hash": "ag1" },
+    "i5x2ji-2-2-3-3": { "name": "ag3", "offsetY": 0, "hash": "ag3" },
+    "i5x2ji-2-2-3-3-2": { "name": "why2", "offsetY": 0, "hash": "why2" },
+    "iacwol2": { "name": "agg3", "offsetY": 0, "hash": "agg3" },
+    "iacwol2-2": { "name": "agg2", "offsetY": 0, "hash": "agg2" }
+  },
+  "links": {
+    "ispyh-2-3-2-3-2-3-2": {
+      "type": "internal",
+      "pageId": "43287616-39b2-42ab-a781-020e440c2987",
+      "pagePath": "/models"
+    },
+    "ispyh-2-3-2-3-2-2-2-2": {
+      "type": "internal",
+      "pageId": "74306198-5495-402c-9bc6-66ba0a6ebf93",
+      "pagePath": "/about"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-2": {
+      "url": "https://edreacepurmul.wixstudio.com/blog-mindhyve",
+      "type": "external",
+      "newTab": false
+    },
+    "inh75-3": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "sectionId": "id5kb-2",
+      "smoothScroll": true,
+      "pagePath": "/",
+      "sectionHash": "end"
+    },
+    "inh75-3-3-2": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "sectionId": "iacwol2-2",
+      "smoothScroll": true,
+      "pagePath": "/",
+      "sectionHash": "agg2"
+    },
+    "inh75-3-3-3": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "sectionId": "iacwol2",
+      "smoothScroll": true,
+      "pagePath": "/",
+      "sectionHash": "agg3"
+    },
+    "ispyh-2-3-2-3-2-3-2-2": {
+      "type": "internal",
+      "pageId": "2ad901db-9cb1-4745-bc0e-bbc06428b5b7",
+      "pagePath": "/ava"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2": {
+      "type": "internal",
+      "pageId": "e30217df-22c5-4ea5-b787-8586b4d1f9f9",
+      "pagePath": "/chiron"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2": {
+      "type": "internal",
+      "pageId": "805850da-883e-4f71-a639-1f58f9fae054",
+      "pagePath": "/justine"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2-2": {
+      "type": "internal",
+      "pageId": "c3c2b167-0dd6-45f3-b6e2-82cfc342ba5d",
+      "pagePath": "/arthur"
+    },
+    "inh75-7": {
+      "type": "internal",
+      "pageId": "941ba1d3-936a-4f95-81a6-dd06fd0008ec",
+      "pagePath": "/collective"
+    },
+    "inh75-2": {
+      "type": "internal",
+      "pageId": "43287616-39b2-42ab-a781-020e440c2987",
+      "pagePath": "/models"
+    },
+    "inh75-4": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "inh75-5-2": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "inh75-2-3-2": {
+      "type": "internal",
+      "pageId": "941ba1d3-936a-4f95-81a6-dd06fd0008ec",
+      "pagePath": "/collective"
+    },
+    "inh75-3-3-2-2": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "sectionId": "i5x2ji-2-2-3-2-2-2",
+      "smoothScroll": true,
+      "pagePath": "/"
+    },
+    "inh75-7-2-2-8": {
+      "type": "internal",
+      "pageId": "941ba1d3-936a-4f95-81a6-dd06fd0008ec",
+      "pagePath": "/collective"
+    },
+    "ispyh-2-3-2-3-2-3-2-3-8-2": {
+      "type": "internal",
+      "pageId": "43287616-39b2-42ab-a781-020e440c2987",
+      "pagePath": "/models"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-3-8-2": {
+      "type": "internal",
+      "pageId": "74306198-5495-402c-9bc6-66ba0a6ebf93",
+      "pagePath": "/about"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-2-3-8-2": {
+      "url": "https://mindhyveai.wixstudio.com/blog-mindhyve",
+      "type": "external",
+      "newTab": false
+    },
+    "ihiknf6-4": {
+      "type": "internal",
+      "pageId": "2ad901db-9cb1-4745-bc0e-bbc06428b5b7",
+      "pagePath": "/ava"
+    },
+    "ihiknf6-4-2": {
+      "type": "internal",
+      "pageId": "c3c2b167-0dd6-45f3-b6e2-82cfc342ba5d",
+      "pagePath": "/arthur"
+    },
+    "ihiknf6-4-2-2": {
+      "type": "internal",
+      "pageId": "e30217df-22c5-4ea5-b787-8586b4d1f9f9",
+      "pagePath": "/chiron"
+    },
+    "ihiknf6-4-2-2-2": {
+      "type": "internal",
+      "pageId": "805850da-883e-4f71-a639-1f58f9fae054",
+      "pagePath": "/justine"
+    },
+    "ispyh-2-3-2-3-2-3-2-4": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "pagePath": "/"
+    },
+    "inh75-2-4-3-2-2-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "external",
+      "url": "https://www.linkedin.com/company/mindhyveai/"
+    },
+    "inh75-2-4-2-3-2-2-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "external",
+      "url": "https://www.facebook.com/profile.php?id=61550195151347"
+    },
+    "inh75-2-4-2-2-3-2-2-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "external",
+      "url": "https://x.com/greentree_X"
+    },
+    "inh75-2-4-2-2-2-2-2-2-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "external",
+      "url": "https://www.instagram.com/mindhyve.ai/"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-3-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "pagePath": "/"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-3-2-2-2-2-3": {
+      "type": "internal",
+      "pageId": "941ba1d3-936a-4f95-81a6-dd06fd0008ec",
+      "pagePath": "/collective"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-3-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "internal",
+      "pageId": "43287616-39b2-42ab-a781-020e440c2987",
+      "pagePath": "/models"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-3-2-2-2-4": {
+      "type": "internal",
+      "pageId": "74306198-5495-402c-9bc6-66ba0a6ebf93",
+      "pagePath": "/about"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-2-3-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "external",
+      "url": "https://blog.mindhyve.ai",
+      "newTab": true
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-2-2-2-3-2-3-7-2-2-2-2-2-2-2-3": {
+      "type": "external",
+      "url": "https://dv8.bz"
+    },
+    "i0i4p": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "inh75": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "inh75-6-2": {
+      "type": "internal",
+      "pageId": "805850da-883e-4f71-a639-1f58f9fae054",
+      "pagePath": "/justine"
+    },
+    "inh75-6-3": {
+      "type": "internal",
+      "pageId": "e30217df-22c5-4ea5-b787-8586b4d1f9f9",
+      "pagePath": "/chiron"
+    },
+    "inh75-6": {
+      "type": "internal",
+      "pageId": "e30217df-22c5-4ea5-b787-8586b4d1f9f9",
+      "pagePath": "/chiron"
+    },
+    "inh75-6-2-2": {
+      "type": "internal",
+      "pageId": "c3c2b167-0dd6-45f3-b6e2-82cfc342ba5d",
+      "pagePath": "/arthur"
+    },
+    "inh75-6-2-2-2": {
+      "type": "internal",
+      "pageId": "c3c2b167-0dd6-45f3-b6e2-82cfc342ba5d",
+      "pagePath": "/arthur"
+    },
+    "inh75-6-2-3": {
+      "type": "internal",
+      "pageId": "805850da-883e-4f71-a639-1f58f9fae054",
+      "pagePath": "/justine"
+    },
+    "iihxfif-5-2-2-2-3-2": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "i0i4p-2": {
+      "type": "internal",
+      "pageId": "74306198-5495-402c-9bc6-66ba0a6ebf93",
+      "pagePath": "/about"
+    },
+    "inh75-5": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "ispyh-2-2-2-2-2-2-2-2-2-3-3-3-2-3-2-3-7-2-2-2-2-2-2-2-5-2-4-21": {
+      "type": "internal",
+      "pageId": "6a2511ef-b4d0-420a-a4e6-3af74ac98b58",
+      "sectionId": "ik2wln-4-2-2-4-4-2-2",
+      "pagePath": "/privacy",
+      "sectionHash": "1"
+    },
+    "ispyh-2-2-2-2-2-2-2-2-2-3-3-4-2-3-2-3-7-2-2-2-2-2-2-2-5-2-4-21": {
+      "type": "internal",
+      "pageId": "790de367-33a3-403d-99ab-8dfb31915f8f",
+      "sectionId": "ik2wln-4-2-2-4-4-2",
+      "pagePath": "/terms",
+      "sectionHash": "1"
+    },
+    "inh75-3-3-3-2": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "sectionId": "i5x2ji-2-2-3-3-2",
+      "smoothScroll": true,
+      "pagePath": "/",
+      "sectionHash": "why2"
+    },
+    "inh75-3-3": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "sectionId": "i5x2ji-3-3",
+      "smoothScroll": true,
+      "pagePath": "/",
+      "sectionHash": "ag1"
+    },
+    "inh75-2-4-2-3-2-2-3-2-3-7-2-2-2-2-2-2-2-3-2": {
+      "type": "external",
+      "url": "https://www.youtube.com/@mindhyveai"
+    }
+  },
+  "scrollAnimations": {
+    "i1lwz": {
+      "start": "bottom",
+      "effectB": "fade",
+      "sectionId": "i84ba",
+      "effectA": "fade",
+      "type": "section"
+    },
+    "i1lwz-2-2-3": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3",
+      "type": "section"
+    },
+    "i1lwz-2-2": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba",
+      "type": "section"
+    },
+    "i1lwz-2-2-2": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-2",
+      "type": "section"
+    },
+    "i1lwz-5-2-3-2": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3-2-3-2",
+      "type": "section"
+    },
+    "i1lwz-5-2-3-2-2": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3-2-3-2-2",
+      "type": "section"
+    },
+    "i1lwz-5-2-3-2-2-2": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3-2-3-2-2-2",
+      "type": "section"
+    },
+    "i1lwz-2-2-3-2": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3-2-3-2",
+      "type": "section"
+    },
+    "i1lwz-2-2-3-3": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3-2-3-2-2",
+      "type": "section"
+    },
+    "i1lwz-2-2-3-4": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3-2-3-2-2-2",
+      "type": "section"
+    },
+    "i1lwz-2-2-3-2-2": {
+      "start": "bottom",
+      "effectA": "fade",
+      "effectB": "fade",
+      "sectionId": "i84ba-3-2-3-2",
+      "type": "section"
+    }
+  },
+  "audio": {
+    "i9del": {
+      "sourceType": "upload",
+      "src": "https://files.peachworlds.com/website/285346a8-e860-4eb2-851b-84d6f638afff/es-weightless-flood-cora-zea-1-.mp3",
+      "autoplay": false,
+      "loop": true,
+      "progress": 0,
+      "volume": 0.2,
+      "onLeave": "pause"
+    },
+    "i9del-2": {
+      "sourceType": "upload",
+      "src": "https://files.staging.peachworlds.com/static/audio-placeholder.mp3",
+      "autoplay": false,
+      "loop": false,
+      "progress": 0,
+      "volume": 0.25,
+      "onLeave": "pause"
+    }
+  },
+  "audioStyle": {
+    "i9del": {
+      "playCursor": "pointer",
+      "playIconType": "custom",
+      "playIconColor": "#252627",
+      "iconPlayUrl": "https://files.peachworlds.com/website/df4c9f2f-7efb-4082-9606-8a10c3ac9fcc/volume-up-fill-streamline-rounded-fill-material.svg",
+      "iconPauseUrl": "https://files.peachworlds.com/website/c0a48998-22d2-4664-b931-ccbee6ab24ad/volume-off-fill-streamline-rounded-fill-material.svg"
+    },
+    "i9del-2": {
+      "playCursor": "pointer",
+      "playIconType": "waveform",
+      "playIconColor": "#252627",
+      "iconPlayUrl": "https://files.staging.peachworlds.com/static/audio-icons/ic-waveform-collapsed-fill.svg",
+      "iconPauseUrl": "https://files.staging.peachworlds.com/static/audio-icons/ic-waveform-fill.svg"
+    }
+  },
+  "interactions": {
+    "izd16": [
+      {
+        "triggerType": "mouseEnter",
+        "mouseCursor": "pointer",
+        "actions": [{ "type": "uiOverlay", "event": "open", "id": "i6gdgk" }]
+      }
+    ],
+    "i1lwz-2-3-4-2-8": [
+      {
+        "actions": [
+          { "id": "iy2h61-8", "type": "uiOverlay", "event": "close" }
+        ],
+        "mouseCursor": "pointer",
+        "triggerType": "mouseClick"
+      }
+    ],
+    "i1lwz-2-3-4-9-2": [
+      {
+        "actions": [{ "id": "iy2h61-8", "type": "uiOverlay", "event": "open" }],
+        "mouseCursor": "pointer",
+        "triggerType": "mouseClick"
+      }
+    ],
+    "iet44-4-2-8-3": [
+      {
+        "triggerType": "mouseClick",
+        "mouseCursor": "pointer",
+        "actions": [{ "type": "uiOverlay", "event": "close", "id": "iyxdnbh" }]
+      }
+    ]
+  },
+  "relativeOverlays": {
+    "i6gdgk": {
+      "position": "bottom",
+      "align": "start",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 48,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-6": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-7": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-8": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-9": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-10": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-11": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-12": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-13": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-14": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-15": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 0,
+      "offsetParallel": 0,
+      "dismissType": "click"
+    },
+    "iy2h61-8-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-16": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-6": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-7": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-8": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-9": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-10": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-11": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-12": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-13": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-14": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-15": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iyxdnbh": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 0,
+      "offsetParallel": 0,
+      "dismissType": "click"
+    },
+    "i6gdgk-2-3-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    }
+  },
+  "anchors": {
+    "id5kb": { "percentage": 0 },
+    "id5kb-2": { "percentage": 0.03 },
+    "id5kb-2-2": { "percentage": 0.293 },
+    "id5kb-2-2-2": { "percentage": 0.307 },
+    "id5kb-2-2-2-2": { "percentage": 0.6000000000273144 },
+    "id5kb-2-2-3": { "percentage": 0.14 },
+    "id5kb-2-2-4": { "percentage": 0.303 },
+    "id5kb-2-2-2-3": { "percentage": 0.38299999933568624 },
+    "id5kb-2-2-2-4": { "percentage": 0.309 },
+    "id5kb-2-2-2-3-2": { "percentage": 0.315 },
+    "id5kb-2-2-2-3-2-3": { "percentage": 0.319 },
+    "id5kb-2-2-2-3-2-4": { "percentage": 0.32 },
+    "id5kb-2-2-2-3-2-5": { "percentage": 0.32899999999999996 },
+    "id5kb-2-2-2-3-2-6": { "percentage": 0.331 },
+    "id5kb-2-2-2-3-2-7": { "percentage": 0.33299999999999996 },
+    "id5kb-2-2-2-3-2-8": { "percentage": 0.3709999998220223 },
+    "id5kb-2-2-3-2": { "percentage": 0 },
+    "id5kb-2-2-5": { "percentage": 0.28 },
+    "id5kb-2-2-2-4-2": { "percentage": 0.31 },
+    "id5kb-2-2-2-3-2-2-2": { "percentage": 0.317 },
+    "id5kb-2-2-2-3-2-4-2": { "percentage": 0.321 },
+    "id5kb-2-2-2-3-2-8-2": { "percentage": 0.37499999881088664 }
+  }
+}

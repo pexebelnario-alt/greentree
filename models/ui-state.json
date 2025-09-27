@@ -1,0 +1,581 @@
+{
+  "devices": {
+    "mobile": {
+      "scrollSettings": {
+        "type": "native",
+        "easing": "default",
+        "duration": 1200,
+        "speed": 100,
+        "isInfinite": false
+      }
+    },
+    "tablet": {
+      "scrollSettings": {
+        "type": "native",
+        "easing": "default",
+        "duration": 1200,
+        "speed": 100,
+        "isInfinite": false
+      }
+    },
+    "desktop": {
+      "scrollSettings": {
+        "type": "smooth",
+        "easing": "default",
+        "duration": 1200,
+        "speed": 100,
+        "isInfinite": false
+      }
+    }
+  },
+  "links": {
+    "ispyh-2-3-2-3-2-3-2-3": {
+      "type": "internal",
+      "pageId": "43287616-39b2-42ab-a781-020e440c2987",
+      "pagePath": "/models"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-3": {
+      "type": "internal",
+      "pageId": "74306198-5495-402c-9bc6-66ba0a6ebf93",
+      "pagePath": "/about"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-2-3": {
+      "url": "https://edreacepurmul.wixstudio.com/blog-mindhyve",
+      "type": "external",
+      "newTab": false
+    },
+    "ispyh-2-3-2-3-2-3-2-2-3": {
+      "type": "internal",
+      "pageId": "2ad901db-9cb1-4745-bc0e-bbc06428b5b7",
+      "pagePath": "/ava"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-3": {
+      "type": "internal",
+      "pageId": "e30217df-22c5-4ea5-b787-8586b4d1f9f9",
+      "pagePath": "/chiron"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2-3": {
+      "type": "internal",
+      "pageId": "805850da-883e-4f71-a639-1f58f9fae054",
+      "pagePath": "/justine"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2-2-2": {
+      "type": "internal",
+      "pageId": "c3c2b167-0dd6-45f3-b6e2-82cfc342ba5d",
+      "pagePath": "/arthur"
+    },
+    "inh75-7-2": {
+      "type": "internal",
+      "pageId": "941ba1d3-936a-4f95-81a6-dd06fd0008ec",
+      "pagePath": "/collective"
+    },
+    "ihiknf6-4-3": {
+      "type": "internal",
+      "pageId": "2ad901db-9cb1-4745-bc0e-bbc06428b5b7",
+      "pagePath": "/ava"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2-2-2-8-2-3": {
+      "type": "internal",
+      "pageId": "2ad901db-9cb1-4745-bc0e-bbc06428b5b7",
+      "pagePath": "/ava"
+    },
+    "ihiknf6-4-2-3": {
+      "type": "internal",
+      "pageId": "c3c2b167-0dd6-45f3-b6e2-82cfc342ba5d",
+      "pagePath": "/arthur"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2-2-2-8-2-2-3": {
+      "type": "internal",
+      "pageId": "c3c2b167-0dd6-45f3-b6e2-82cfc342ba5d",
+      "pagePath": "/arthur"
+    },
+    "ihiknf6-4-2-2-3": {
+      "type": "internal",
+      "pageId": "e30217df-22c5-4ea5-b787-8586b4d1f9f9",
+      "pagePath": "/chiron"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2-2-2-8-2-2-2-3": {
+      "type": "internal",
+      "pageId": "e30217df-22c5-4ea5-b787-8586b4d1f9f9",
+      "pagePath": "/chiron"
+    },
+    "ihiknf6-4-2-2-2-2": {
+      "type": "internal",
+      "pageId": "805850da-883e-4f71-a639-1f58f9fae054",
+      "pagePath": "/justine"
+    },
+    "ispyh-2-3-2-3-2-3-2-2-2-2-2-2-8-2-2-2-2-2": {
+      "type": "internal",
+      "pageId": "805850da-883e-4f71-a639-1f58f9fae054",
+      "pagePath": "/justine"
+    },
+    "inh75-7-2-2-8-2": {
+      "type": "internal",
+      "pageId": "941ba1d3-936a-4f95-81a6-dd06fd0008ec",
+      "pagePath": "/collective"
+    },
+    "ispyh-2-3-2-3-2-3-2-3-8-2-2": {
+      "type": "internal",
+      "pageId": "43287616-39b2-42ab-a781-020e440c2987",
+      "pagePath": "/models"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-3-8-2-2": {
+      "type": "internal",
+      "pageId": "74306198-5495-402c-9bc6-66ba0a6ebf93",
+      "pagePath": "/about"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-2-3-8-2-2": {
+      "url": "https://mindhyveai.wixstudio.com/blog-mindhyve",
+      "type": "external",
+      "newTab": false
+    },
+    "inh75-2-4-3-2-2-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "external",
+      "url": "https://www.linkedin.com/company/mindhyveai/"
+    },
+    "inh75-2-4-2-3-2-2-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "external",
+      "url": "https://www.facebook.com/profile.php?id=61550195151347"
+    },
+    "inh75-2-4-2-2-3-2-2-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "external",
+      "url": "https://x.com/greentree_X"
+    },
+    "inh75-2-4-2-2-2-2-2-2-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "external",
+      "url": "https://www.instagram.com/mindhyve.ai/"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-3-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "pagePath": "/"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-3-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "internal",
+      "pageId": "43287616-39b2-42ab-a781-020e440c2987",
+      "pagePath": "/models"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-3-2-2-2": {
+      "type": "internal",
+      "pageId": "74306198-5495-402c-9bc6-66ba0a6ebf93",
+      "pagePath": "/about"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-2-3-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "external",
+      "url": "https://blog.mindhyve.ai",
+      "newTab": true
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-2-2-2-3-2-3-7-2-2-2-2-2-2-2": {
+      "type": "external",
+      "url": "https://dv8.bz"
+    },
+    "ispyh-2-3-2-3-2-3-2-4-2": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "pagePath": "/"
+    },
+    "ispyh-2-3-2-3-2-2-2-2-3-8-2-2-15-2-2-14": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "pagePath": "/"
+    },
+    "ispyh-2-2-2-2-2-2-2-4-2-2-2-2-3-2-2-2-2": {
+      "type": "internal",
+      "pageId": "941ba1d3-936a-4f95-81a6-dd06fd0008ec",
+      "pagePath": "/collective"
+    },
+    "iwqcp7h": {
+      "type": "internal",
+      "pageId": "6acbcaf2-3f7a-46d1-8ac9-54c6f22ec36e",
+      "pagePath": "/"
+    },
+    "iihxfif-5-2-2-2-3-3": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "inh75-5-3": {
+      "type": "internal",
+      "pageId": "74e748bb-00be-4027-8d3e-bbbbb3faeac5",
+      "pagePath": "/contact"
+    },
+    "ispyh-2-2-2-2-2-2-2-2-2-3-3-3-2-3-2-3-7-2-2-2-2-2-2-2-5-2-4-20": {
+      "type": "internal",
+      "pageId": "6a2511ef-b4d0-420a-a4e6-3af74ac98b58",
+      "sectionId": "ik2wln-4-2-2-4-4-2-2",
+      "pagePath": "/privacy",
+      "sectionHash": "1"
+    },
+    "ispyh-2-2-2-2-2-2-2-2-2-3-3-4-2-3-2-3-7-2-2-2-2-2-2-2-5-2-4-20": {
+      "type": "internal",
+      "pageId": "790de367-33a3-403d-99ab-8dfb31915f8f",
+      "sectionId": "ik2wln-4-2-2-4-4-2",
+      "pagePath": "/terms",
+      "sectionHash": "1"
+    },
+    "inh75-2-4-2-3-2-2-3-2-3-7-2-2-2-2-2-2-2-13": {
+      "type": "external",
+      "url": "https://www.youtube.com/@mindhyveai"
+    }
+  },
+  "audio": {
+    "i9del": {
+      "sourceType": "upload",
+      "src": "https://files.staging.peachworlds.com/static/audio-placeholder.mp3",
+      "autoplay": false,
+      "loop": false,
+      "progress": 0,
+      "volume": 0.25,
+      "onLeave": "pause"
+    }
+  },
+  "audioStyle": {
+    "i9del": {
+      "playCursor": "pointer",
+      "playIconType": "waveform",
+      "playIconColor": "#252627",
+      "iconPlayUrl": "https://files.staging.peachworlds.com/static/audio-icons/ic-waveform-collapsed-fill.svg",
+      "iconPauseUrl": "https://files.staging.peachworlds.com/static/audio-icons/ic-waveform-fill.svg"
+    }
+  },
+  "interactions": {
+    "izd16-2": [
+      {
+        "triggerType": "mouseEnter",
+        "mouseCursor": "pointer",
+        "actions": [{ "type": "uiOverlay", "event": "open", "id": "i6gdgk-2" }]
+      }
+    ],
+    "i1lwz-2-3-4-9-2-2": [
+      {
+        "actions": [
+          { "id": "iy2h61-8-2", "type": "uiOverlay", "event": "open" }
+        ],
+        "mouseCursor": "pointer",
+        "triggerType": "mouseClick"
+      }
+    ],
+    "i1lwz-2-3-4-2-8-2": [
+      {
+        "actions": [
+          { "id": "iy2h61-8-2", "type": "uiOverlay", "event": "close" }
+        ],
+        "mouseCursor": "pointer",
+        "triggerType": "mouseClick"
+      }
+    ]
+  },
+  "relativeOverlays": {
+    "i6gdgk": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2": {
+      "position": "bottom",
+      "align": "start",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 48,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 0,
+      "offsetParallel": 0,
+      "dismissType": "click"
+    },
+    "iy2h61-8": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-16": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-6": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-6": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-7": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-7": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-8": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-8": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-9": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-9": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-10": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-10": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-11": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-11": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-12": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-12": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-13": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-13": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-14": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-14": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-15": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iyxdnbh": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2-3": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2-5": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "i6gdgk-2-3-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    },
+    "iy2h61-8-2-4-2-4": {
+      "position": "bottom",
+      "align": "center",
+      "offsetOrthogonal": 8,
+      "offsetParallel": 0,
+      "dismissType": "auto"
+    }
+  },
+  "anchors": {
+    "id5kb": { "percentage": 0 },
+    "id5kb-2": { "percentage": 0 },
+    "id5kb-2-2-3": { "percentage": 0 },
+    "id5kb-2-2-5": { "percentage": 0 },
+    "id5kb-2-2": { "percentage": 0 },
+    "id5kb-2-2-4": { "percentage": 0 },
+    "id5kb-2-2-2": { "percentage": 0 },
+    "id5kb-2-2-2-4": { "percentage": 0 },
+    "id5kb-2-2-2-3-2": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-2": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-3": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-4": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-5": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-6": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-7": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-8": { "percentage": 0 },
+    "id5kb-2-2-2-3": { "percentage": 0 },
+    "id5kb-2-2-2-2": { "percentage": 0 },
+    "id5kb-2-2-2-4-2": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-2-2": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-4-2": { "percentage": 0 },
+    "id5kb-2-2-2-3-2-8-2": { "percentage": 0 }
+  }
+}
